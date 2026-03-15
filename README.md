@@ -2,7 +2,7 @@
 <H3>ENTER YOUR NAME : ARAVIND G</H3>
 <H3>ENTER YOUR REGISTER NO. 212223240011</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:11/03/2026</H3>
+<H3>DATE:13/03/2026</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
